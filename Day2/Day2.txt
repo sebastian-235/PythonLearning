@@ -1,0 +1,48 @@
+Deleting Variable
+
+del keyword is used to delete a variable of a which has been stored
+
+Name Error means  Variable is Not defined
+
+once Error has thrown next steps will not execute
+
+Operators -  To Perform operations between 2 or more variables.
+
+Arithmetic
+Relational
+Logical
+Bitwise
+Shorthand
+
+Arithmetic
+ *Addition +
+ *Subtract -
+ *Multiply *
+ *Division
+ / Returns Float Value
+ // returns quotient
+ % Returns reminder
+ ** Returns Exponential
+
+Relational Operators - always returns a boolean values (Comparison Operators)
+
+>
+<
+>=
+<=
+!=
+==
+
+Logical Operators - Always returns a boolean value
+
+AND
+OR
+NOT
+
+Concatenation
+----------------
+Joining two or more variables or string or numbers
+
+True will consider as 1
+
+typError while trying to concat two different types.
